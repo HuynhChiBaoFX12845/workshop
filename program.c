@@ -4,11 +4,10 @@ int main()
 {
     int num1, num2;
     char op;
-    printf("Nhap phep toan: ");
-    scanf("%c", &op);
 
-    printf("\nNhap vao 2 so a, b: ");
-    scanf("%d%d", &num1, &num2);
+    printf("\nNhap vao 2 so a, b: "); scanf("%d%d", &num1, &num2);
+
+    printf("\nNhap vao 2 so a, b: "); scanf("%d%d", &num1, &num2);
 
     switch (op)
     {
